@@ -102,6 +102,7 @@ main
 }
 .main_Detect_animate
 {
+    background-color: black;
     width: 220px;
     height: 220px;
 }
